@@ -3,7 +3,7 @@ we-are-react
 
 ## 1장: 시작하기
 시작하기 전에
-- Node.js와 npm
+- Node.js와 npm[1]
 - 자바스크립트 ES6
 리액트의 정의
 리액트의 장점
@@ -202,3 +202,5 @@ let과 const
 화살표 함수
 템플릿 문자열
 구조분해 할당
+
+[1]: "https://github.com/we-are-developer/we-are-react/blob/master/01.Starting/Node.js-and-npm.md"
