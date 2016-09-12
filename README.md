@@ -203,4 +203,4 @@ let과 const
 템플릿 문자열
 구조분해 할당
 
-[1]: "https://github.com/we-are-developer/we-are-react/blob/master/01.Starting/Node.js-and-npm.md"
+[1]: https://github.com/we-are-developer/we-are-react/blob/master/01.Starting/Node.js-and-npm.md
