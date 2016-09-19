@@ -73,3 +73,7 @@ window 유저는 환경변수 설정시 set 을 추가하고, 글로벌 모듈�
  ### 실행방법
 
  npm run build   ->   build 폴더에 빌드됨. -> npm rum development 을 통해 개발  -> npm run start  -> 배포
+
+ [프로젝트 소스][1]
+
+[1]: https://github.com/we-are-developer/we-are-react/tree/master/08.Node-express-setting/react-express-template
