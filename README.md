@@ -223,3 +223,4 @@ we-are-react
 
 [1]: https://github.com/we-are-developer/we-are-react/blob/master/01.Starting/Node.js-and-npm.md
 [2]: https://github.com/we-are-developer/we-are-react/blob/master/01.Starting/javascript-ES6.mdown
+[3]: https://github.com/we-are-developer/we-are-react/blob/master/08.Node-express-setting/Node-express-setting.md
